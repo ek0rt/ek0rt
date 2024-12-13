@@ -14,6 +14,8 @@ Hi, my name is Evgenii. I live in Moscow and I'm learning JavaScript, React, and
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Graylog](https://img.shields.io/badge/-Graylog-DCDCDC?style=flat-square&logo=graylog&logoColor=black)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 
 
