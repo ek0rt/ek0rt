@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is Evgenii. I live in Moscow and I'm learning JavaScript, React, and Node.js. I work at DatsTeam.
+Hi, my name is Evgenii. I live in Moscow and I'm learning JavaScript, React, and Node.js. I work at Datsteam.
 
 ## 🛠 Technologies & Tools
 
